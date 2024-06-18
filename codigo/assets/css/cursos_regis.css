@@ -1,0 +1,126 @@
+/*Importando Fonte Poppins*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*Importando Fonte Open Sans*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*Importando Fonte Barlow*/
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url('../images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Poppins', sans-serif;
+}
+
+nav {
+  background-color: #141416;
+}
+
+ul>li {
+  color: white;
+}
+
+#logo {
+  color: white;
+  font-family: 'Barlow', sans-serif;
+  font-weight: 500;
+}
+
+.nav-item {
+  list-style: none;
+  background-color: #141416;
+  transition: background-color 0.3s ease;
+}
+
+#home:hover {
+  background-color: #282626;
+}
+
+main{
+  background-color: #446dea63;
+}
+
+#titulo{
+  font-size: 350%;
+  font-family: 'Barlow', sans-serif;
+}
+
+main>h1 {
+  color: white;
+  background-color: #00000098;
+}
+
+#corpo {
+  background-color: #1b2648;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#corpo h2 {
+  color: white;
+}
+
+#corpo p {
+  color: white;
+}
+
+ul{
+  margin: 0%;
+  list-style-type: none;
+}
+
+button {
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+.buttonF{
+  background-color: #3c68ed;
+}
+.buttonM{
+  background-color: #1842c3;
+}
+.buttonD{
+  background-color: #0f329c;;
+}
+
+.editarResp {
+  width: 2rem;
+}
+
+.InputPerg{
+  width: 40%;
+}
+
+.InputResp{
+  width: 30%;
+}
+
+.AddConfSimb {
+  width: 1.5rem;
+}
+
+#BtnConfCurso{
+  background-color: rgb(31, 218, 31);
+}
+#BtnConfQuest2{
+  background-color: rgb(31, 218, 31);
+}
+#BtnCancelQuest{
+  background-color: crimson;
+}
+
+#BtnAddQuest {
+  background-color: rgb(72, 65, 205);
+}
+
+footer {
+  bottom: 0;
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,217 @@
+{
+  "cursos": [
+    {
+      "id": "1",
+      "titulo": "introdução",
+      "facil": {
+        "quizes_id": [
+          1,
+          2,
+          3
+        ],
+        "conteudos_id": [
+          16,
+          17,
+          18
+        ]
+      },
+      "medio": {
+        "quizes_id": [
+          4,
+          5,
+          6
+        ],
+        "conteudos_id": [
+          13,
+          14,
+          15
+        ]
+      },
+      "dificil": {
+        "quizes_id": [
+          7,
+          8,
+          9
+        ],
+        "conteudos_id": [
+          10,
+          11,
+          12
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "titulo": "condicionais",
+      "facil": {
+        "quizes_id": [
+          10,
+          11,
+          12
+        ],
+        "conteudos_id": [
+          7,
+          8,
+          9
+        ]
+      },
+      "medio": {
+        "quizes_id": [
+          13,
+          14,
+          15
+        ],
+        "conteudos_id": [
+          4,
+          5,
+          6
+        ]
+      },
+      "dificil": {
+        "quizes_id": [
+          16,
+          17,
+          18
+        ],
+        "conteudos_id": [
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "titulo": "repetição",
+      "facil": {
+        "quizes_id": [
+          1,
+          7
+        ],
+        "conteudos_id": [
+          2
+        ]
+      },
+      "medio": {
+        "quizes_id": [
+          3
+        ],
+        "conteudos_id": [
+          4
+        ]
+      },
+      "dificil": {
+        "quizes_id": [
+          5
+        ],
+        "conteudos_id": [
+          6
+        ]
+      }
+    },
+    {
+      "id": "4",
+      "titulo": "vetores",
+      "facil": {
+        "quizes_id": [
+          1,
+          7
+        ],
+        "conteudos_id": [
+          2,
+          7,
+          6
+        ]
+      },
+      "medio": {
+        "quizes_id": [
+          5
+        ],
+        "conteudos_id": [
+          8
+        ]
+      },
+      "dificil": {
+        "quizes_id": [
+          3,
+          7
+        ],
+        "conteudos_id": [
+          9
+        ]
+      }
+    },
+    {
+      "id": "5",
+      "titulo": "matriz",
+      "facil": {
+        "quizes_id": [
+          1,
+          7
+        ],
+        "conteudos_id": [
+          2,
+          7,
+          6
+        ]
+      },
+      "medio": {
+        "quizes_id": [
+          9,
+          7,
+          4
+        ],
+        "conteudos_id": [
+          8,
+          6
+        ]
+      },
+      "dificil": {
+        "quizes_id": [
+          9
+        ],
+        "conteudos_id": [
+          1,
+          8
+        ]
+      }
+    },
+    {
+      "id": "0cde",
+      "titulo": "teste",
+      "facil": {
+        "quizes_id": [
+          9,
+          6
+        ],
+        "conteudos_id": [
+          2,
+          7,
+          6
+        ]
+      },
+      "medio": {
+        "quizes_id": [
+          9,
+          7,
+          4
+        ],
+        "conteudos_id": [
+          8,
+          6
+        ]
+      },
+      "dificil": {
+        "quizes_id": [
+          5,
+          7,
+          4
+        ],
+        "conteudos_id": [
+          1,
+          8
+        ]
+      }
+    }
+  ]
+}
